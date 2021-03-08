@@ -1,0 +1,5 @@
+import array as arr
+values=input("Nhập vào các giá trị:")
+a = arr.array('i', [n])
+print(a)
+
