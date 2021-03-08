@@ -1,5 +1,4 @@
 import array as arr
-values=input("Nhập vào các giá trị:")
+n=int(input("Nhập vào một số:"))
 a = arr.array('i', [n])
 print(a)
-
